@@ -1,4 +1,4 @@
-# Privacy Policy
+# Tokime - Privacy Policy
 
 Last updated: May 07, 2026
 
