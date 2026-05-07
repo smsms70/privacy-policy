@@ -1,3 +1,5 @@
 This repo provides the privacy policies of some of my projects.
 
-[Tokime](https://github.com/smsms70/Tokime)
+
+[Tokime repo](https://github.com/smsms70/Tokime)
+[Tokime policy](https://smsms70.github.io/privacy-policy/tokime)
